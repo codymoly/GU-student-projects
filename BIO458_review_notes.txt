@@ -1,0 +1,254 @@
+BIO458, Literature review, paper notes
+Julia Mari Murata
+February, 2022
+
+
+Abbreviations
+UIB - under-ice bloom
+SIA - sea ice algae
+
+
+Ardyna2020b
+
+Methods
+- 11 arctic expeditions in different regions between 2004 to 2016
+- 756 stations
+- light measurements: downwelling and upwelling irradiance, surface albedo
+- ice measurements: satellite-based sea-ice concentration and ages
+- water measurements: CTD incl. DO, NO3, PAR, fluorescence, NO2, PO4, SiOH4
+- phytoplankton chl a and accessory pigments over depth
+--> determined rel. abundance of distinct algae groups to total chl a --> different groups have different ratios of accessory pigments
+- phytoplankton abundance, biovolume, composition: nano- and microphytoplankton with FlowCytobots and CHEMTAX --> only living cells were considered
+- stats: KWH test for nutrient differences between expeditions, correlation analysis between algae groups and env. drivers
+
+Results & Discussion
+- all ice samples were from FYI, type, thickness, optical props varied
+- sea ice thickness before melting period: all from 1 to 1.4m
+- sea-ice algae probably reduce under-ice PAR
+- assemblages were studied during peak
+- diatom abundance showed positive correlations with nutrient concentrations
+- other groups mainly correlated negatively with SiOH, PO4, NO3
+- SiOH shapes relative abundances of diatoms and phaecocystis (bloom dominators)
+- strong positive correlation between ice concentration and Phaecocystis
+- under-ice Arctic phytoplankton blooms can be categorized into two groups based on the dominating taxonomic group: diatom dominated blooms and Phaecocystis pouchetii dominating blooms
+--> diatoms when ice-ocvered, Phaecocystis when ice-free, Si depletion could favour Phaecocystis
+--> Si decreases in ARctic, but predicts UIBs, but light more important for initiation under ice
+- UIB will probably increase in the Arctic since ice-cover fragmentates and becomes thinner
+
+
+Ardyna2020b
+
+Introduktion
+- review
+- 2010 - 2015: warmest years in Arctic
+- increased freshwater inflow (rivers, melting ice
+- summer ice has declined by >40%, thickness by 65%
+- fragmentation and open water leads to changed light conditions for ice-inhabiting and pelagic organisms
+- NPP increased by 30% between 1998 and 2018, especially in shelf regions, the relative increase of NPP is in correlation with ice-cover decrease and widening of open-water habitat
+
+Nutrients
+- nitrate, and to lesser extent silicate and iron shape biogeography and trophic composition, i.e., oligo- or eutrophic
+- light availability shapes regional NPP rate
+- nutrient and light availability are crucial factors, and in relation with stratification and sea-ice dynamics
+- stratification will likely increase in some regions of the Arctic ocean
+- at the same time, the absence of sea-ice makes the water surface more exposed to winds
+--> alter mixing patterns
+
+Gateways and advection
+- Arctic ocean is in continuous exchange with Atlantic and Pacific waters
+--> transport of heat, nutrients, microorganisms
+- between 1999 and 2011: strong decrease of phytoplankton biomass (part. centric diatoms) and NPP due to increased freshwater input and resulting stratification
+- early blooms under ice that are transfered in other water within Arctic change algal community and productivity
+
+Phenology
+
+Flores2019
+
+Methods
+- RV POlarstern expedition between August and September 2012, 46 stations at 11 locations
+--> UIB at 7 locations
+- water column: CTD, DO, chla a, fluorescence, nutrient samples (PO4, Si, NO2, NO3)
+- sea-ice concentration: satellite data
+- sea-ice thickness: CTD
+- under-ice protists: water samples through ice hole --> 18s meta-barcoding, OTU
+- stats: PCA to cluster locations basend on env. parameters, CCA and ANOVA to analyze relationship between community structure and environmental parameters, test contribution of trophic groups between NO-rich and NO-poor regimes, GLM test relationship between trophic groups with env. variables
+
+Results
+- Si concentration and salinity in mixed layer explained the most variation between stations
+- UI protist communities were dominated by dinoflagellates (mostly Gymnodiniaceae), ~40%
+- epipelagic communities were dominated by non-dinoflagellate heterotrophic protists (mostly Ciliophora)
+- community structure followed sea-ice concentration and thickness, stratification, shelf influence (salinity, Si)
+--> UI protists: MLD, NO, Si, sea-ice concentration
+- "Whereas the taxonomic structure of all four communities predominantly reflected the variability of sea-ice influence, stratification and shelf influence, the trophic structure differed predominantly between locations in the NOx-rich Atlantic regime and locations in the NOx-poor Polar and shelf-influenced regimes"
+- UI protist communities were dominated by mixotrophic taxa, reflecting the contribution of dinoflagellates in atlantic regimes
+- "Within the NOx-poor regimes, locations associated with thicker ice (H–J) had proportionally higher shares of OTUs indica- tive of autotrophic taxa compared to locations with thinner, decaying sea ice"
+- epipelagic protist community showed higher abundance for heterotrophs than UI communitiy
+- GLM: positive effect on autotrophs by ML temp and turbidity, heterotrophs negatviely related to NO, positively to cla a concentration in ice
+- mixotrophs were negatively related to ice thickness
+
+Discussion
+- Eurasian Bay had unusual low sea-ice cover during experiment, in some stations it decreased from covered to fully uncovered during exp. period
+- all taxonomic community structures examined were driven by Sea-ice concentration, thickness, stratification, shelf influence --> community specific driver influence could not clearly be distinguished
+- sea-ice related effects: limiting light, affecting photo-autotrophic growth , and stratification --> ice-melt enhances stratification and inhibts nutrient upwelling from deeper layers
+- protist communities may be also driven by NO concentrations
+- trophic: dominant trophic group was negatively related with NO
+- considering the limitating effect of nutrient availability on primary production, heterotrophs may gain importance --> more heterotrophs, when nutrients deplete
+--> further decrease in sea-ice and nutrient depletion may favour the dominance of heterotrophs and mixotrophic protists
+- springtime bloom initiation usually starts with ice-algae, but when ice melt starts earlier, ice algae primary production would decrease
+
+
+Lasternas2010
+
+Methods
+- July 2010 in Fram Strait, marginal ice zone, open water
+- summer with massive ice melting event
+- CTD, water samples, Chl a, abundance
+- Spearman correlation: env. <-> bio. parameters, THSD, linear regression
+
+Results
+- varying temperature and salinity depending on station proximity to ice, and depth
+- higher biomass near to coast
+- chl a concentration correlated with salinity and temperature
+- Phaeocystis pouchetii was dominant species (>90%), else nanoflagellates, dinoflagellates, diatoms (mainly centric genus Thalassiosira and pennate species such as Pseudo-nitzschia delicatissima)
+- atypically low dinoflagellate abundance (5% < 30-40%)
+- Phaeocystis pouchetii biovolume and abundance were not related to water temperature and salinity, biovolume of diatoms was positively related to temperature --> favour warmer temperatures
+
+Discussion
+- P. pouchetti is known in the Arctic associated with spring blooms but not as overall dominant species, particularly not in the colony form
+- normally, diatoms like Chaetoceros socialis, Nitzschia frigida, Skelote- nema costatum sensu lato, and Melosira arctica are associated with ice-edge
+- mention that salinity and temperature decrease due to ice melt  --> reduced primary production and biomass, MYI contains lots of toxic contaminants accumulated during industrialization
+- intense ice-melt events decrease the water temperature --> fewer diatoms
+
+
+Lin2018
+
+Methods
+- 23 stations in continental shelf, 22 stations in deep ocean
+--> shelf: Chukchi sea, Alaskan north west coast, deep: Chukchi sea, Northwind ridge
+- July to August 2010
+- phytoplankton samples, CTD, nutrients, visual assessment of ice coverage
+- stats: diversity: richness, dominance, relation community env. parameters: CANOCO, detrended correspondence analysis to determine methods, CCA
+--> considered only taxa that were in more than 10% of the samples and showed abundance >1%
+
+Results
+- results varied during experimental period and between shelf and deep ocean
+- ice conditions worsened from shelf over slope to deep sea
+- Chukchi shelf was nearly ice-free to the end
+- deep sea oceans were covered with ice, but lost extent over time
+- water temperature decreased from south to north and from shelf to deep sea
+--> salinity and temperature correlated negatively
+- nutrient increased from south to north, and from deep sea to shelf
+- nutrient were generally higher during return than during depart
+- in total, 157 phytoplankton taxa were identified, 69 genera, incl. Cryptophyta (1), Katablepharidophyta (1), Haptophyta (1), Heterokontophyta (2), Bacillariophyta (99), Dinophyta (47), and Euglenophyta (6)
+- west-Arctic ocean: Bacillariophyto most abundant, then Dinophyta
+--> dominant species: Navicula pelagica, Thalassiosira nordenskioeldi
+- continent shelf showed higher species richness than open ocean
+- total phytoplankton abundance was greater in shelf regions and close to the Bering sea
+- shelf: dominated by centric and pennate diatoms (> 97%), mainly Navicula pelagica, Thalassiosira nordenskioeldi, more centric than pennate diatoms, dinoflagellates <2%
+- deep: diatoms lower abundant <80 %, more pennate than centric diatoms, e.g., Thalassionema nitzschoides, Eutreptiella gymnastica, higher dinoflagellate abundance >7%
+
+Discussion
+- North Pacific current transports water with higher temperature, salinity, and nutrients from Bering strait to Chukchi sea
+- sea-ice algae like Nitzschia frigida act as seed
+- shelf community was correlated with temperature, high total abundance and species diversity, dominated by neritic planktonic diatoms like Chaetoceros debilis, C. diadema, Leptocylindrus danicus, and Nitzschia longissima. D
+- deep sea community dominated by pennate diatoms such as Navicula pelagic, Cylindrotheca closterium, and Thalassionema nitzschioides., correlated with temperature and ice coverage, silicate affected distribution of Thalassiosira antarctica and T. nordenskioeldii
+- conclude that light and water temperature are more important than nutrients for arctic diatoms
+
+- interannual variation: when ice-covered, under-ice diatoms like Melosira antarctic are more dominant, when ice-cover disappears, pelagic species like Nitzschia spp., Fragilariopsis spp., Navicula spp., and Actinocyclus spp are more dominant
+- in spring, pennate diatom Fragilaria striatula is dominant, in summer T. nordenskioeldii is more dominant
+- sea-ice conditions are determining: "pennate diatoms such as Navicula spp. and Fragilariopsis spp. represent an important part of the algal community in Arctic ice"
+- intraannual: from heterotrophic flagellates to diatoms, followed by Dinophyceaes
+
+
+Neeley2018
+
+Methods
+- 81 stations in July 2011 in Chukchi and Beaufort sea
+- CTD, water samples, nutrients, taxonomy, chl a, PAR
+- phytoplankton biovolume
+- sea-ice cover and extent by satellite
+- stats: CA: group the taxa based on similar distribution and abundance patterns, CCA: community composition and env. parameters, PCA: locations based on environmental parameters
+
+Results
+- 4 CA cluser: 
+1. 3 diatom groups --> not further considered since it was only observed in ~1.6% of samples
+2. 6 diatom taxa, 1 green alga, Phaecocystis --> positive relationship with ICA presence and Si, highest Chl a biomass, 2nd highest carbon abundance, highest community richness
+3. 6 diatom taxa, nano- and oicophytoplankton, dinoflagellates, highest carbon, 2nd highest chl a abundance and community richness, correlated positively with hydrographical variables
+4. oligotrophs, diatoms, dinoflagellates, silicoflagellates, positively related to temperature and light, lowest chl a biomass, carbon, richness
+- 2. presence of sea ice, UIB, 3. surface chl maximum, inorganic nitrogen, phosphorus, below UIB, 4. warm, nutrient-poor, ice-free water, 4. ice-free water
+
+- group 1.: low turbulence and nutrient richness (Si) ensured by ice favours these taxa
+- Si and ice: pack-ice and brine channels serve es recylcing/ regeneration sources for Si during winter --> is released during ice-melt
+- the three major groups could be related to nutrients, temperature, light, and sea-ice (extent and depth)
+- sea-ice extent as a driver of changes in nutrient density, temperature, and stratification was identified to shape taxonomic structure
+- sea ices shapes environment: higher Si and inorganic nitrogen concentration, higher melt-water stratification --> favours large diatoms like Bacteriosira, Fragilariopsis, Detonula, Pleurosigma, Navicula, large diatoms prefere low turbulence and high nutrients
+
+
+Wang2018
+
+Methods
+- 50 stations for phytoplankton samples, different oceanographic regions
+- measurements: CTD, microphytoplankton, plankton microscope, chl a cocnentration, nutrients
+- visual ice-cover estimations
+- stats: Shannon-Wiener index to assess species diversity, Pielou index to assess evenness, No. species by species richness index, species dominance index --> Bray-curtis dissimilarity for cluster analysis and MDS, correlation between community patterns and env. variables with CCA (canonical correlation analysis)
+
+Results & Dscussion
+- sea-ice cover and thickness showed gradient from shelf to deep water area
+- 153 species, 86 genera, 9 phyla
+- 37 diatom species, 47 dinoflagellate species, 6 Euglenophyta species, and other
+- diatoms dominated communities in surface water samples (contribution: ~61% species richness, ~94% abundance), second-dominant group: dinoflagellates (~31% species richness, 3% abundance)
+--> consistent with other findings, but there were studies showing that dinoflagellates were dominant over diatoms
+- species composition varied between stations
+- cluster analysis and MDS identified a shelf assemblage and a deep basin essemblage
+
+
+Wang2018a
+
+Methods
+- different depths, sample collection in July 2010 in Bering street
+- phytoplankton water samples, CTD, micropscopic counting, chl a -> biomass
+- stats: Shannon-Wiener diversity, Pielou’s evenness, species richness index, species dominance index, Bray-curtis dissimilarity, cluster analysis, MDS, Pearson’s correlations among and between phytoplankton biomass, abundance and environmental variables, CCA
+
+Results
+- for AO typical temperature-driven stratification
+- latitudinal chl a distribution varied between locations
+- chl a high in shelf, low in basin, going along with nutrient distribution, highest between 20-30m depth
+- high water temperatures in shelf -> high stratification -> low nutrient exchange over depth
+- taxonomic composition: 57 genera, 149 species in total
+- phytoplankton and photosynthetic active species: 101 diatom sp., 44 dinoflagellate sp., 2 chrysophyte sp., 1 chlorophyta sp., 1 euglenophyta sp.
+--> ~67% diatoms, 30% dinoflagellates, remaining
+--> Euglenophyta and Chlorophyta only in shallow stations, freshwater dependent
+--> most dominant dinoflagellates: Amphidinium, Gymnodinium and Gyrodinium fusiforme
+--> most dominant diatoms: Navicula spp., Fragilariopsis spp., Neodenticula seminae, Leptocylindrus danicus, Pseudonitzschia delicatissima, Thalassiosira nordenskiöldii, Nitzschia closterium, Chaetoceros socialis, C. atlanticus and C. debilis
+- higher phytoplankton biomass and abundance in shelf zone than in basin
+- MDS: two communities, deep-sea and neritic
+- deep-sea: Bering basin, Neodenticula seminae, Chaetoceros atlanticus, and cosmopolitan species, including Pseudonitzschia delicatissima, Thalassionema nitzschioides, among others --> even species abundance, diversity index higher than species richness
+- neritic: shelf close, Thalassiosira nordenskiöldii, Fragilariopsis oceanica, Chaetoceros furcellatus, C. socialis and cosmopolitan species Leptocylindrus danicus, C. curvisetus, Nitzschia closterium
+--> uneven with high species dominance, species richness index was higher than diversity index
+--> neritic diversity index was lower than deep-sea index
+- negative correlation between biomass and nutrients in basin zone
+- positive correlation between biomass and nutrients in shelf zone
+- phytoplankton abundance only negatively correlated with Si in deep-sea zone
+- phytoplankton abundance only positively correlated with salinity in shelf zone
+- Chaetoceros atlanticus, Pseudonitzschia delicatissima, Neodenticula seminae and Thalassionema nitzschioides correlated with nutrient concentrations at high concentration and high salinity in basin
+- dinoflagellates such as Ceratium longipes, Gyrodinium fusiforme, and Protoperidinium ovum showed strong association with high concentrations of nitrite and ammonium in shelf
+- Chaetoceros debilis, Nitzschia closterium, Leptocylindrus danicus, Chaetoceros furcellatus, and Chaetoceros socialis were only weakly correlated with nutrients in shelf
+- two species showed temperature preferences, e.g., Thalassiosira nordenskiöldii with cold
+
+Discussion
+- nutrients did not predict biomass in Bering basin: high nutrient concentrations, but low biomass
+- nutrients predicted biomass in Bering shelf: high nutrient concentrations, high biomass
+- regional circulation patterns, temperature patterns
+- ice-melting effects salinity and temperature --> elevates stratification
+- upwelling delivers nutrient from low layers
+- experiment showed massive bloom
+- species ditribution showed strong biogeography
+- arctic species were identified in shelf region (neritic)
+- more boreal-temperate species were found in basin zone
+- species vary along depth, surface: diatoms, deeper layers: dinoflagellates
+- ice retreat from spring to summer:
+- ice algae may seed the water after ice-melt
+- usually, spring to summer: shift from pennate to centric diatoms
+- this study: ice-associated species were replaced by pelagic centric diatoms like T. nordenskiöeldii, C. furcellatus and C. socialis
+--> Bering sea was nearly ice-free
+- "It is predicted that some of the usually perennially covered shelf areas will be ice-free in the future, and could possibly favor the growth and reproduction of phytoplankton leading to increased primary productivity"
