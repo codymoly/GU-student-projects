@@ -60,7 +60,6 @@ Gateways and advection
 - between 1999 and 2011: strong decrease of phytoplankton biomass (part. centric diatoms) and NPP due to increased freshwater input and resulting stratification
 - early blooms under ice that are transfered in other water within Arctic change algal community and productivity
 
-Phenology
 
 Flores2019
 
@@ -97,7 +96,59 @@ Discussion
 - springtime bloom initiation usually starts with ice-algae, but when ice melt starts earlier, ice algae primary production would decrease
 
 
-Lasternas2010
+Fujiwara2014
+
+Methods
+- between 2008 and 2010 in western arctic ocean, September-October
+- post-bloom conditions
+- CTD, nutrients
+- phytoplankton pigments --> stats: derived taxonomic data by multiple regression analysis, cluster analysis to devide sampling sites into groups with same pigment composition, multiple comparison test to examine significant differences in environmental conditions among phytoplankton clusters
+- environmental variables: temperature, salinity, nutrients, timing sea-ice retreat
+- sea-ice concentration was assessed by satellite-data
+
+Results
+- clusters of phytoplankton communities varied between years and regions
+- prasinophytes dominated deep-sea area
+- one cluster dominated by haptophytes
+- two clusters were similarly distributed in shelf area, one dominated by diatoms, one by dinoflagellates
+- both clusters showed bigger cells
+- nutrients were locally similar between years
+- topo: Nox compounds were higher concentrated in shelf and near to Bering strait
+- diatom and dinoflagellate cluster showed higher salinity, higher nutrients
+- diatom cluster correlated with high concentrations of si and nitrogen compounds than dinoflagellates
+- dinoflagellates followed higher temperature
+- small prasinophyte cluster showed later ice-retreat, lower temperatures, lower salinity --> ice-melt water
+
+Discussion
+- sea-ice distribution explained taxonomic distribution
+- haptophytes were dominant over prasinophytes in one year: h. are mixotrophic, survive in nutrient-poor, warm water
+- p. are adapted to low light levels (ice-covered) --> when ice-free, h. dominated
+- "we suggest that the dominance of hapto- phytes observed only in 2008 was due to the spread ofwarm, nutrient-depleted water and/or changing light conditions, all of which likely follow an early sea ice retreat"
+
+
+Hardge2017
+
+Methods
+- Central arctic ocean between 2011 and 2012
+- FYI and MYI ice samples, nutrients and algae
+- water samples, CTD, DNA-based taxonmic identification, nutrients
+- sea-ice origin and concentration
+- stats: mantel test, non-metric multidimensional scaling to analyse community patterns, ANOSIM to test difference between years and habitats of communities, mantel test to test between env. and community patterns
+
+Results
+- "in both years, sea ice cores were mainly characterized by Chrysophyceae (mainly Ochromonadales), Diatomea (mainly Thalassiosira) and Cercozoa (mainly Silico filosea, e.g. Ebria), typical taxa found in the water column were Chloroplastida (main ly Mami el lo phy ceae, e.g. Micro monas) and Dino flagellata (mainly Dinophyceae)"
+- water: Micromonas most common, and dinoflagellates
+- more diatoms in 2012 than in 2011, 2012 sea-ice minimum
+--> 
+- Dinoflagellata and Protalveolata were the most diverse protist groups in the water samples
+
+Discussion
+- lower protist diversity in 2012 than in 2011
+- more diatoms in 2012 due to ice-loss and more light, further: FYI transmits more light than MYI
+- the similiarity between ice-algae and water algae composition indicates, that the massive melting led to a high seeding effect
+
+
+Neeley2018
 
 Methods
 - July 2010 in Fram Strait, marginal ice zone, open water
@@ -182,6 +233,16 @@ Results
 - the three major groups could be related to nutrients, temperature, light, and sea-ice (extent and depth)
 - sea-ice extent as a driver of changes in nutrient density, temperature, and stratification was identified to shape taxonomic structure
 - sea ices shapes environment: higher Si and inorganic nitrogen concentration, higher melt-water stratification --> favours large diatoms like Bacteriosira, Fragilariopsis, Detonula, Pleurosigma, Navicula, large diatoms prefere low turbulence and high nutrients
+
+
+Selz2017
+...
+- model to assess seeding effect
+
+Results
+- no relationship between ice and snow thickness
+- almost all stations were dominated by FYI
+- spring ice algae: Nitzschia, Navicula, unidentified pennate diatoms
 
 
 Wang2018
